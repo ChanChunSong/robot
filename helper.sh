@@ -1,3 +1,5 @@
+# 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
+
 working_kernel_folder="/usr/local/google/home/oceanchen/kernel-repo/gs-mainline-5.10_manifest_7667484"
 working_kernel_folder="/usr/local/google/home/oceanchen/kernel-repo/gs-mainline-5.10-blueport"
 working_android_folder="Android/sc-dev"
